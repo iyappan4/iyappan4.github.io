@@ -1,0 +1,43 @@
+.certificate{
+    text-align: center;
+}
+
+.certifi-img{
+    width: 250px;
+    height: 175px;
+    text-align: center;
+}
+
+.project-img{
+    width: 250px;
+    height: 150px;
+    text-align: center;
+}
+
+@media (max-width: 576px) {
+    .certificates{
+        padding: 1rem 1rem;
+    }
+    .certifi-img{
+        width: 200px;
+        height: 125px;
+        text-align: center;
+    }
+    
+    .project-img{
+        width: 200px;
+        height: 125px;
+        text-align: center;
+    }
+}
+
+
+@media (min-width: 768px) {
+    .certificates{
+        padding: 1rem 10rem;
+    }
+  
+}
+
+
+

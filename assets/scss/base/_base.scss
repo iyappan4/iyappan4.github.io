@@ -1,0 +1,57 @@
+*{
+    font-family: Poppins, sans-serif;
+}
+body{
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(62, 62, 63);
+}
+
+.heading h3{
+    color: white;
+}
+
+i{
+    padding: 1rem 1rem;
+}
+
+.fa{
+    padding: 1rem 1rem;
+}
+
+.card{
+    text-align: center;
+    background-color: rgb(62, 62, 63);
+    color: white;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: bold;
+    color: white;
+}
+
+.skill-icon{
+    font-size: 3rem;
+    padding: 1rem;
+    border-radius: 20rem;
+    color: rgb(106, 76, 177);
+}
+
+.card{
+    border: none;
+    padding: 1rem 1rem;
+    text-align: center;
+}
+
+
+.card{
+    margin: 1rem;
+}
+
+@media (max-width: 576px) {
+    .heading{
+        text-align: center;
+    }
+
+}
+

@@ -1,0 +1,17 @@
+.projects{
+    padding: 1rem 1rem;
+}
+.project{
+    padding: 2rem;
+}
+
+.project-content{
+    padding: 2rem;
+}
+
+@media (max-width: 576px) {
+    .projects{
+        padding: 1rem 3rem;
+    }
+}
+

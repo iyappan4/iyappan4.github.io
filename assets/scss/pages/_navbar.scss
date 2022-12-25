@@ -1,0 +1,40 @@
+nav{
+    // background: rgb(57, 58, 58);
+    background-color: whitesmoke;
+}
+
+.navbar{
+    margin: 1rem 10rem;
+    padding: 1rem 1rem;
+    border-radius: 30px;
+}
+.heading{
+    padding: 5rem 5rem;
+    font-weight: bold;
+}
+
+.navbar-toggler{
+    border-color: none;
+}
+.navbar-toggler:focus{
+    outline: none;
+}
+
+
+.hi{
+    padding: 1rem 2rem;
+    margin-right: 10px;
+}
+
+@media (max-width: 576px) {
+    .navbar{
+        padding: 1rem 2rem;
+        margin: 1rem 1rem;
+    }
+    .nav-item{
+        padding: 1rem;
+    }
+    
+}
+
+
